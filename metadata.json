@@ -1,0 +1,7 @@
+{
+  "name": "LF BelezaJá",
+  "description": "Conecte-se aos melhores profissionais de beleza da sua região. Agendamentos em tempo real, pagamentos integrados e gestão completa para profissionais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
